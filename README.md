@@ -156,6 +156,9 @@ They sell accessories through three different channels:
 **1)	Home View**
 
    •  All view **buttons** will be available, leading to specific pages:
+
+   ![Home](https://github.com/user-attachments/assets/8a9f7bc9-99ae-4902-b33c-3fddb6357fb5)
+
   
      a.) Information
      
@@ -170,8 +173,6 @@ They sell accessories through three different channels:
      f.) Executive View
      
      g.) Support
-
-     ![Home](https://github.com/user-attachments/assets/09d98f42-96ba-43bb-95fd-3d52b853832f)
 
 
 
