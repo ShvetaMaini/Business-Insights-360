@@ -192,7 +192,14 @@ They sell accessories through three different channels:
    ![Page Navigation Filter Pane](https://github.com/user-attachments/assets/673342cd-18fd-4c4a-8897-c7a001b4983d)
 
 
-**4)	Finance View**
+**4)	Scroller Header Bar Visual**
+
+ •	It includes heading of specific page and for that specific measures have been created.
+
+ ![Scroller Header Bar](https://github.com/user-attachments/assets/a01d045a-aa9c-49e8-aaf7-dfe8cd993de3)
+
+
+**5)	Finance View**
 
   •	Detailed financial analysis, including **revenue**, **expenses**, and **profit margins**.
   
@@ -201,7 +208,7 @@ They sell accessories through three different channels:
   ![Finance](https://github.com/user-attachments/assets/4a90b888-ac2e-493b-830c-ea748c16638a)
 
 
-**5)	Sales View**
+**6)	Sales View**
 
   •	Insights into **product and customer performance**.
   
@@ -210,7 +217,7 @@ They sell accessories through three different channels:
   ![Sales](https://github.com/user-attachments/assets/921ecd6e-e15e-45b6-9a59-9100b1e98096)
 
 
-**6)	Marketing View**
+**7)	Marketing View**
 
   •	Regional and product-wise market performance reports.
   
@@ -221,7 +228,7 @@ They sell accessories through three different channels:
   ![Marketing](https://github.com/user-attachments/assets/0d602335-c59b-4c32-bd12-20adbb548721)
 
 
-**7)	Supply Chain View**
+**8)	Supply Chain View**
 
   •	Analysed **forecast accuracy**, **net error**, and **absolute error** trends.
   
@@ -230,7 +237,7 @@ They sell accessories through three different channels:
   ![Supply Chain](https://github.com/user-attachments/assets/f1afb1da-8eaa-4aed-98a5-2f281612a83d)
 
 
-**8)	Executive View**
+**9)	Executive View**
 
   •	Important metrics for **high- level management** decisions.
   
