@@ -176,7 +176,7 @@ They sell accessories through three different channels:
  
    •	It includes **Back to Menu button** which will lead to menu panel. 
    
-   •	Further it also includes **slicers** according to year wise, quarter wise, region wise, country wise, category wise, **abbreviations** and **clear all** filter button. 
+   •	Further it also includes **slicers** according to year wise, quarter wise, region wise, country wise, category wise, **abbreviations** and **clear all filter** button. 
 
 **4)	Finance View**
 
