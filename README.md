@@ -130,6 +130,8 @@ They sell accessories through three different channels:
   
   •	Distributor
 
+  AtliQ **Fiscal Year** starts from **1st September  to 31st August**
+
 ---
 
 ## 📥 Importing Data into Power BI
@@ -140,7 +142,7 @@ They sell accessories through three different channels:
 
 ## ✨ Data Model
 
-   •	Use **Snowflake Schema** to build relations between tables for visuals.
+   •	Use **Snowflake Schema** approach to build relations between tables for visuals.
 
 ---
 
