@@ -1,4 +1,4 @@
-#  📊 Business Insights 360 📈
+#  📊 Business Insights 360 
 
 ## 📑 Project Overview
 
@@ -13,11 +13,17 @@ The project **aims** to onboard data analysts and develop user-friendly dashboar
 ## 🛠 Skills and Techniques
 
 **👨‍💻 Tech Stacks**
+
   •	SQL
+  
   •	Power BI Desktop
+  
   •	Excel
+  
   •	DAX Language
+  
   •	DAX Studio (For optimizing the report)
+  
   •	Project charter file (Defined project scope and objectives)
 
 **🎓 Power BI Fundamentals**
