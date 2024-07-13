@@ -171,7 +171,8 @@ They sell accessories through three different channels:
      
      g.) Support
 
-     ![Home](https://github.com/user-attachments/assets/8e4936ba-eff6-4650-a447-6b6c70593700)
+     ![Home](https://github.com/user-attachments/assets/09d98f42-96ba-43bb-95fd-3d52b853832f)
+
 
 
 **2)	Page Navigation Menu Panel**
