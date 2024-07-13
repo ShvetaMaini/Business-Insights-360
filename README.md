@@ -171,9 +171,15 @@ They sell accessories through three different channels:
      
      g.) Support
 
+     ![Home](https://github.com/user-attachments/assets/8e4936ba-eff6-4650-a447-6b6c70593700)
+
+
 **2)	Page Navigation Menu Panel**
 
    •  It includes **home**, **finance**, **sales**, **marketing**, **supply chain**, **executive**, **filter pane**, **information** and **support** icon on clicking on it will lead to that page.
+
+   ![Page Navigation Menu Panel](https://github.com/user-attachments/assets/ea11a979-574e-4f4c-8dc7-44da4e2757b2)
+
 
  **3)	Page Navigation Filter Pane**
  
@@ -181,17 +187,26 @@ They sell accessories through three different channels:
    
    •	Further it also includes **slicers** according to year wise, quarter wise, region wise, country wise, category wise, **abbreviations** and **clear all filter** button. 
 
+   ![Page Navigation Filter Pane](https://github.com/user-attachments/assets/673342cd-18fd-4c4a-8897-c7a001b4983d)
+
+
 **4)	Finance View**
 
   •	Detailed financial analysis, including **revenue**, **expenses**, and **profit margins**.
   
   •	**Benchmarks** against **previous year** and **target goals** for budgeting.
 
+  ![Finance](https://github.com/user-attachments/assets/4a90b888-ac2e-493b-830c-ea748c16638a)
+
+
 **5)	Sales View**
 
   •	Insights into **product and customer performance**.
   
   •	Enhance **customer relationship management**
+
+  ![Sales](https://github.com/user-attachments/assets/921ecd6e-e15e-45b6-9a59-9100b1e98096)
+
 
 **6)	Marketing View**
 
@@ -201,11 +216,17 @@ They sell accessories through three different channels:
   
   •	Enhance **brand awareness** and **customer interaction**.
 
+  ![Marketing](https://github.com/user-attachments/assets/0d602335-c59b-4c32-bd12-20adbb548721)
+
+
 **7)	Supply Chain View**
 
   •	Analysed **forecast accuracy**, **net error**, and **absolute error** trends.
   
   •	Developed metrics for managing supply by customers and products.
+
+  ![Supply Chain](https://github.com/user-attachments/assets/f1afb1da-8eaa-4aed-98a5-2f281612a83d)
+
 
 **8)	Executive View**
 
@@ -214,6 +235,9 @@ They sell accessories through three different channels:
   •	Developed an executive dashboard for real-time performance monitoring.
   
   •	Visualized revenue by division, customer, product, and channel including donut chart, ribbon chart, area chart and column bar stacked chart for manufacturers.
+
+  ![Executive](https://github.com/user-attachments/assets/c92cffba-2177-4cc2-a9b8-1af0d2ea92a5)
+
 
 ---
 
