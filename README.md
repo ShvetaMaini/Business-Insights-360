@@ -12,6 +12,7 @@ The project **aims** to onboard data analysts and develop user-friendly dashboar
 
 ## 🛠 Skills and Techniques
 
+
 **👨‍💻 Tech Stacks**
 
   •	SQL
@@ -25,6 +26,7 @@ The project **aims** to onboard data analysts and develop user-friendly dashboar
   •	DAX Studio (For optimizing the report)
   
   •	Project charter file (Defined project scope and objectives)
+  
 
 **🎓 Power BI Fundamentals**
 
@@ -59,6 +61,7 @@ The project **aims** to onboard data analysts and develop user-friendly dashboar
   •	Setting up Personal Gateway for auto-refresh
   
   •	Creating workspace and access permissions in Power BI Services
+
 
 **💼 Business Jargons**
 
@@ -97,6 +100,7 @@ The project **aims** to onboard data analysts and develop user-friendly dashboar
   •	Brick & Mortar
   
   •	E-commerce
+
 
 **Soft Skills**
 
