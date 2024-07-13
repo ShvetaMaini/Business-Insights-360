@@ -144,6 +144,9 @@ They sell accessories through three different channels:
 
    •	Use **Snowflake Schema** approach to build relations between tables for visuals.
 
+   ![Data Model](https://github.com/user-attachments/assets/a3d6deee-386e-4d7e-b989-bfbfcc9b0563)
+
+
 ---
 
 ## 🎨 Dashboard Designing
