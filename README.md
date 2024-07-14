@@ -25,8 +25,6 @@ The project **aims** to onboard data analysts and develop user-friendly dashboar
   
   •	DAX Studio (For optimizing the report)
   
-  •	Project charter file (Defined project scope and objectives)
-  
 
 **🎓 Power BI Fundamentals**
 
@@ -105,6 +103,8 @@ The project **aims** to onboard data analysts and develop user-friendly dashboar
 **Soft Skills**
 
   •	**Project Initiation**: Team creation, Writing Emails, Sharing details via email
+
+  •	**Project Management**: About project charter document.
   
   •	**Stakeholder Mapping**: Analysis and management
   
