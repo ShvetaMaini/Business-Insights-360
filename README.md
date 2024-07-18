@@ -6,7 +6,7 @@
 
 The project **aims** to onboard data analysts and develop user-friendly dashboards for **finance**, **sales**, **supply chain**, **marketing**, and **executive** views to deliver actionable insights by improving data transparency and accuracy.
 
-**🔗 [Live Dashboard] (https://)** | **🎥 [Project Video] (https://)**
+**🔗 [Live Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiM2YyMTQyMWMtYzZkYi00YzE5LWFlNzUtMzNjNGM4YTBhOGRjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
 ---
 
@@ -251,10 +251,10 @@ They sell accessories through three different channels:
 ---
 
 ## 🎯Project Outcome
-
- • This report empowers data-driven decision-making, providing clarity on numerous **"why" questions** in various scenarios. 
  
  • The dashboard offers **actionable insights**, enabling AtliQ to make informed choices that **enhance profitability** and **streamline operations**.
+
+![Insights   Recomendations png](https://github.com/user-attachments/assets/fb2159b0-ebf5-49b7-ba10-fc6b61bfe019)
 
  ---
 
