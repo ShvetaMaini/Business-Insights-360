@@ -6,7 +6,7 @@
 
 The project **aims** to onboard data analysts and develop user-friendly dashboards for **finance**, **sales**, **supply chain**, **marketing**, and **executive** views to deliver actionable insights by improving data transparency and accuracy.
 
-**🔗 [Live Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiM2YyMTQyMWMtYzZkYi00YzE5LWFlNzUtMzNjNGM4YTBhOGRjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
+**🔗 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2YyMTQyMWMtYzZkYi00YzE5LWFlNzUtMzNjNGM4YTBhOGRjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
 ---
 
@@ -258,9 +258,13 @@ They sell accessories through three different channels:
 
  ---
 
- ## Feedback
+ ## 📎 Link:
 
- Please take a moment to share your valuable thoughts and suggestions on **email id : shvetamaini6@gmail.com** . I shall be very **thankful** to all of you.
+ 💼 ]Linkedin Post](https://lnkd.in/p/gEEnJsb2)
+
+
+
+ 
 
 
  
