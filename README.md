@@ -260,7 +260,7 @@ They sell accessories through three different channels:
 
  ## 📎 Link:
 
- 💼 ]Linkedin Post](https://lnkd.in/p/gEEnJsb2)
+ 💼 [Linkedin Post](https://lnkd.in/p/gEEnJsb2)
 
 
 
